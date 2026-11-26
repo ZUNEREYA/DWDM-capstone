@@ -1,0 +1,6 @@
+{
+  "name": "MediInsight AI",
+  "description": "Design and Development of a Healthcare Analytics System Using Data Warehousing and Data Mining — Turning Healthcare Data into Intelligent Insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
